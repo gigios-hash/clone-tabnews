@@ -1,0 +1,3 @@
+node_modules/
+
+#Para evitar que a pasta node_modules seja enviada ao repositório quando realizar o commit
