@@ -54,6 +54,7 @@ export default function HomePage() {
 
   return (
     <div style={containerStyle}>
+    <h1 style={{ color: '#666', marginBottom: '40px' }}>Commit teste Aula Dia 7</h1>
       <h1 style={{ color: '#333', marginBottom: '20px' }}>Versículo Bíblico</h1>
       <button
         onClick={fetchVerse}
